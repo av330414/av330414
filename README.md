@@ -1,11 +1,11 @@
 <img src="https://github.com/av330414/vorobei-testing/blob/main/assets/logo.jpg" width="500">
 
 ## Hi there 👋 I'm a Junior QA Engineer. 
-## My CV
+## **My CV**
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
 
-### Language and Tools
+### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
