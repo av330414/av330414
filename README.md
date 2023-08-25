@@ -1,7 +1,7 @@
 <img src="https://github.com/av330414/vorobei-testing/blob/main/assets/logo.jpg" width="500">
 
 ## Hi there 👋 I'm a Junior QA Engineer. 
-## **My CV**
+## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
 
