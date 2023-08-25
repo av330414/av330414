@@ -1,9 +1,12 @@
-<p align="center">
-
-  <img width="500" src=src="https://github.com/av330414/vorobei-testing/blob/main/assets/logo.jpg">
-
+<p class="aligncenter">
+    <img align="middle" src="https://github.com/av330414/vorobei-testing/blob/main/assets/logo.jpg" width="500"/>
 </p>
 
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
 
 
