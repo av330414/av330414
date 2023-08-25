@@ -5,9 +5,12 @@
 </p>
 
 
-
-
 ## Hi there 👋 I'm a Junior QA Engineer. 
+
+<h1 align="center">Hi there 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>I'm a Junior QA Engineer</h1>
+
+
 ## [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
 
 
