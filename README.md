@@ -8,8 +8,8 @@
 
 
 ## Hi there 👋 I'm a Junior QA Engineer. 
-## My CV
-[Link to my CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
+## [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
+[Link to my CV]()
 
 
 ### Tools
@@ -32,9 +32,5 @@
 - [Postman Collections](https://github.com/av330414/postman)
 
 
-
-![av330414's GitHub stats](https://github-readme-stats.vercel.app/api?username=av330414&show_icons=true&theme=radical)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=av330414)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=av330414&show_icons=true&theme=radical)
