@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img width="500" src="https://github.com/av330414/vorobei-testing/blob/main/assets/logo.jpg">
+  <img width="500" src="https://github.com/av330414/av330414/blob/main/assets/logo.jpg">
 
 </p>
 
