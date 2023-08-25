@@ -1,4 +1,6 @@
-<div style="text-align: center;"><img src="https://github.com/av330414/vorobei-testing/blob/main/assets/logo.jpg" width="500">
+<center>
+<img src="https://github.com/av330414/vorobei-testing/blob/main/assets/logo.jpg" width="500"/>
+</center>
 
 ## Hi there 👋 I'm a Junior QA Engineer. 
 ## My CV
