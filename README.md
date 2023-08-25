@@ -9,7 +9,7 @@
 
 ## Hi there 👋 I'm a Junior QA Engineer. 
 ## [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
-[Link to my CV]()
+
 
 
 ### Tools
@@ -25,11 +25,11 @@
 ![STLC](https://img.shields.io/badge/STLC-090909?style=for-the-badge&logo=STLC&logoColor=2674f2)
 ### Testing Documentation
 
-- [Checklists](https://github.com/av330414/checklist)
-- [Test-Suites and Test-Cases](https://github.com/av330414/test-cases)
+- [Checklists](https://drive.google.com/drive/folders/1v4LmcaeNm3Lz2U_Mg4qIkW0--XNdnYBW?usp=sharing)
+- [Test-Cases](https://github.com/av330414/test-cases)
 - [Bug-Reports](https://github.com/av330414/bug-reports)
-- [SQL Queries](https://github.com/av330414/SQL)
-- [Postman Collections](https://github.com/av330414/postman)
+- SQL Queries
+- Postman Collections
 
 
 
