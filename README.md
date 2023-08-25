@@ -5,10 +5,8 @@
 </p>
 
 
-## Hi there 👋 I'm a Junior QA Engineer. 
 
-<h1 align="center">Hi there 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>I'm a Junior QA Engineer</h1>
+<h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm a Junior QA Engineer</h1>
 
 
 ## [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
@@ -29,8 +27,8 @@
 ### Testing Documentation
 
 - [Checklists](https://drive.google.com/drive/folders/1v4LmcaeNm3Lz2U_Mg4qIkW0--XNdnYBW?usp=sharing)
-- [Test-Cases](https://github.com/av330414/test-cases)
-- [Bug-Reports](https://github.com/av330414/bug-reports)
+- [Test-Cases](https://drive.google.com/drive/folders/1PVrFp04ft3ofcLRIxaoCZFVRJcTbjhns?usp=sharing)
+- [Bug-Reports](https://drive.google.com/drive/folders/1ZI97EMat0H0fXfODS68IYZQNc-OxbfhI?usp=sharing)
 - SQL Queries
 - Postman Collections
 
