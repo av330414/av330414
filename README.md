@@ -11,7 +11,7 @@
 <h3 align="center">I have direct experience working in QA, as well as relevant experience, which I consider valuable for successfully fulfilling responsibilities in this area. I have a higher technical education, and I have completed professional retraining courses and have a good understanding of testing processes and software development methodologies.</h3>
 
 
-<hr ## [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867) </hr>
+<hr> ## [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867) </hr>
 
 
 
