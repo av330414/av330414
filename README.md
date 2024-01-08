@@ -14,7 +14,7 @@
 
 ## [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
 
-
+<h1> </h1>
 
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -28,6 +28,9 @@
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML&logoColor=2674f2)
 ![SDLC](https://img.shields.io/badge/SDLC-090909?style=for-the-badge&logo=SDLC&logoColor=2674f2)
 ![STLC](https://img.shields.io/badge/STLC-090909?style=for-the-badge&logo=STLC&logoColor=2674f2)
+
+<h1> </h1>
+
 ### Testing Documentation
 
 - [Checklists](https://drive.google.com/drive/folders/1v4LmcaeNm3Lz2U_Mg4qIkW0--XNdnYBW?usp=sharing)
@@ -36,6 +39,6 @@
 - SQL Queries
 - Postman Collections
 
-
+<h1> </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=av330414&show_icons=true&theme=radical)
