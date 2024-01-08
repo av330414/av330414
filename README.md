@@ -15,7 +15,7 @@
 [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
 
 
-
+<h1>
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Charles](https://img.shields.io/badge/charles-090909?style=for-the-badge&logo=charles&logoColor=136be1)
@@ -29,7 +29,7 @@
 ![SDLC](https://img.shields.io/badge/SDLC-090909?style=for-the-badge&logo=SDLC&logoColor=2674f2)
 ![STLC](https://img.shields.io/badge/STLC-090909?style=for-the-badge&logo=STLC&logoColor=2674f2)
 
-<h1> </h1>
+ </h1>
 
 ### Testing Documentation
 
