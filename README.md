@@ -8,14 +8,13 @@
 
 <h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm a Junior QA Engineer</h1>
 
-<h3 align="center">I have direct experience working in QA, as well as relevant experience, which I consider valuable for successfully fulfilling responsibilities in this area. I have a higher technical education, and I have completed professional retraining courses and have a good understanding of testing processes and software development methodologies.
-</h3>
+<h3 align="center">I have direct experience working in QA, as well as relevant experience, which I consider valuable for successfully fulfilling responsibilities in this area. I have a higher technical education, and I have completed professional retraining courses and have a good understanding of testing processes and software development methodologies.</h3>
 
-<h1> 
+<h1> </h1>
 
 [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
 
-</h1>
+
 
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
