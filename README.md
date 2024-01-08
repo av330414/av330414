@@ -15,6 +15,7 @@
 
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Charles](https://img.shields.io/badge/charles-090909?style=for-the-badge&logo=charles&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
