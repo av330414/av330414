@@ -12,7 +12,7 @@
 
 <h1> 
 
-## [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
+[My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
 
 </h1>
 
