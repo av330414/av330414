@@ -37,10 +37,11 @@
 - [Test-Cases](https://drive.google.com/drive/folders/1PVrFp04ft3ofcLRIxaoCZFVRJcTbjhns?usp=sharing)
 - [Bug-Reports](https://drive.google.com/drive/folders/1ZI97EMat0H0fXfODS68IYZQNc-OxbfhI?usp=sharing)
 
+<h1> </h1>
+
 ### My certificates
 
-- SQL Queries
-- Postman Collections
+- SQL certificate [in progress](https://stepik.org/users/643760589/profile)
 
 <h1> </h1>
 
