@@ -34,7 +34,7 @@ Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.g
 
 ### Testing Documentation
 
-- [Checklists](https://drive.google.com/drive/folders/1v4LmcaeNm3Lz2U_Mg4qIkW0--XNdnYBW?usp=sharing)
+- [Checklists](https://drive.google.com/drive/folders/1v4LmcaeNm3Lz2U_Mg4qIkW0--XNdnYBW?usp=drive_link)
 - [Test-Cases](https://drive.google.com/drive/folders/1PVrFp04ft3ofcLRIxaoCZFVRJcTbjhns?usp=sharing)
 - [Bug-Reports](https://drive.google.com/drive/folders/1ZI97EMat0H0fXfODS68IYZQNc-OxbfhI?usp=sharing)
 
