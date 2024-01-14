@@ -44,5 +44,6 @@ Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.g
 
 - SQL certificate [in progress](https://stepik.org/users/643760589/profile)
 
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=av330414&show_icons=true&theme=radical)
