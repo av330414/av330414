@@ -13,7 +13,7 @@ Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.g
 
 ---
 
-### [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
+### [My CV](https://drive.google.com/file/d/16_2trXL0ZSN5tY5JNMJPhUB-bG3AC93F/view?usp=drive_link)
 
 ---
 
