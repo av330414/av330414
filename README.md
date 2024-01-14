@@ -6,8 +6,8 @@
 
 
 
-<h1 align="center">
-Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm a Junior QA Engineer</h1>
+<h2 align="center">
+Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm a Junior QA Engineer</h2>
 
 <h3 align="center">I have direct experience working in QA, as well as relevant experience, which I consider valuable for successfully fulfilling responsibilities in this area. I have a higher technical education, and I have completed professional retraining courses and have a good understanding of testing processes and software development methodologies.</h3>
 
