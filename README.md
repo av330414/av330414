@@ -10,11 +10,9 @@
 
 <h3 align="center">I have direct experience working in QA, as well as relevant experience, which I consider valuable for successfully fulfilling responsibilities in this area. I have a higher technical education, and I have completed professional retraining courses and have a good understanding of testing processes and software development methodologies.</h3>
 
-<h1> </h1>
 
 ### [My CV](https://nn.hh.ru/resume/3d7a8e90ff0bf08fcc0039ed1f5156377a4867)
 
-<h1> </h1>
 
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -29,7 +27,6 @@
 ![SDLC](https://img.shields.io/badge/SDLC-090909?style=for-the-badge&logo=SDLC&logoColor=2674f2)
 ![STLC](https://img.shields.io/badge/STLC-090909?style=for-the-badge&logo=STLC&logoColor=2674f2)
 
-<h1> </h1> 
 
 ### Testing Documentation
 
@@ -37,12 +34,10 @@
 - [Test-Cases](https://drive.google.com/drive/folders/1PVrFp04ft3ofcLRIxaoCZFVRJcTbjhns?usp=sharing)
 - [Bug-Reports](https://drive.google.com/drive/folders/1ZI97EMat0H0fXfODS68IYZQNc-OxbfhI?usp=sharing)
 
-<h1> </h1>
 
 ### My certificates
 
 - SQL certificate [in progress](https://stepik.org/users/643760589/profile)
 
-<h1> </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=av330414&show_icons=true&theme=radical)
