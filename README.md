@@ -43,6 +43,7 @@ Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.g
 ### My certificates
 
 - SQL certificate [in progress](https://stepik.org/users/643760589/profile)
+- [QA certificate](https://drive.google.com/file/d/11gGaPqBu1Gr1T5zqt-Wau1qcg9eqVDLW/view?usp=sharing)
 
 ---
 
